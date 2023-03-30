@@ -1,1 +1,5 @@
 All the files for ECE5780 Lab2, RM / EDF scheduler
+
+execution format:
+g++ lab2.cpp
+./a.out <inputfile>.txt <outputfile>.txt
