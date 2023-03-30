@@ -1,0 +1,143 @@
+BEGIN RMS SIMULATION
+0: Started with task A
+9: Task A finished
+10: Started task B
+24: Task B finished
+25: Started task C
+44: Task C finished
+45: Started task D
+74: Task D finished
+75: Started task E
+94: Task E finished
+95: Started task V
+99: Task V finished
+100: Started task A
+109: Task A finished
+110: Started task B
+124: Task B finished
+125: Started task C
+144: Task C finished
+145: Started task D
+174: Task D finished
+175: Started task W
+189: Task W finished
+190: Waiting for tasks to become available...
+200: Started task A
+209: Task A finished
+210: Started task B
+224: Task B finished
+225: Started task C
+244: Task C finished
+245: Started task D
+274: Task D finished
+275: Started task E
+294: Task E finished
+295: Started task X
+300: X was preempted with 5 cycles left: Started task A
+309: Task A finished
+310: Started task B
+324: Task B finished
+325: Started task C
+344: Task C finished
+345: Started task D
+374: Task D finished
+375: Started task X
+379: Task X finished
+380: Started task Y
+389: Task Y finished
+390: Started task Z
+400: Z was preempted with 5 cycles left: Started task A
+409: Task A finished
+410: Started task B
+424: Task B finished
+425: Started task C
+444: Task C finished
+445: Started task D
+474: Task D finished
+475: Started task E
+494: Task E finished
+495: Started task Z
+499: Task Z finished
+500: Started task A
+509: Task A finished
+510: Started task B
+524: Task B finished
+525: Started task C
+544: Task C finished
+545: Started task D
+574: Task D finished
+575: Waiting for tasks to become available...
+End of RMS Simulation
+
+***************************************************************************************************
+
+BEGIN EDF SIMULATION
+0: Started with task A
+9: Task A finished
+10: Started task B
+24: Task B finished
+25: Started task C
+44: Task C finished
+45: Started task D
+74: Task D finished
+75: Started task E
+94: Task E finished
+95: Started task V
+99: Task V finished
+100: Started task A
+109: Task A finished
+110: Started task B
+124: Task B finished
+125: Started task C
+144: Task C finished
+145: Started task D
+174: Task D finished
+175: Started task W
+189: Task W finished
+190: Waiting for tasks to become available...
+200: Started task A
+209: Task A finished
+210: Started task B
+224: Task B finished
+225: Started task C
+244: Task C finished
+245: Started task D
+274: Task D finished
+275: Started task E
+294: Task E finished
+295: Started task X
+300: X was preempted with 5 cycles left: Started task A
+309: Task A finished
+310: Started task B
+324: Task B finished
+325: Started task C
+344: Task C finished
+345: Started task D
+374: Task D finished
+375: Started task X
+379: Task X finished
+380: Started task Y
+389: Task Y finished
+390: Started task Z
+400: Z was preempted with 5 cycles left: Started task A
+409: Task A finished
+410: Started task B
+424: Task B finished
+425: Started task C
+444: Task C finished
+445: Started task D
+474: Task D finished
+475: Started task E
+494: Task E finished
+495: Started task Z
+499: Task Z finished
+500: Started task A
+509: Task A finished
+510: Started task B
+524: Task B finished
+525: Started task C
+544: Task C finished
+545: Started task D
+574: Task D finished
+575: Waiting for tasks to become available...
+End of EDF Simulation
